@@ -1,0 +1,5 @@
+Testes de Performance e Carga;
+Noções em TDD (Test Driven Development);
+Conhecimento de ferramentas de teste (Selenium IDE, Selenium WebDriver, JMeter, SoapUI, TestLink, RedMine, etc.);
+Conhecimento em integração contínua e análise estática de código fonte;
+Experiência com ferramentas Jenkins, Sonar, Sonarlint etc.;
