@@ -1,4 +1,4 @@
-name: Cypress Tests - Complete Project
+name: Cypress Tests - In Class Project
 
 on:
   push:
