@@ -1,0 +1,22 @@
+{
+  "name": "livro-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^8.16.4"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.2",
+    "cypress-plugin-api": "^2.11.2"
+  }
+}

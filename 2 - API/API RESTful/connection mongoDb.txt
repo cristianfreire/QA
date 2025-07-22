@@ -1,0 +1,5 @@
+189.35.209.171
+dba
+cristian123
+
+mongodb+srv://dba:7PC3hFczN1PIQkIq@livroapi.ap5loag.mongodb.net/?retryWrites=true&w=majority&appName=LivroApi

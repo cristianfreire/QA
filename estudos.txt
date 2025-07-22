@@ -3,3 +3,5 @@ Noções em TDD (Test Driven Development);
 Conhecimento de ferramentas de teste (Selenium IDE, Selenium WebDriver, JMeter, SoapUI, TestLink, RedMine, etc.);
 Conhecimento em integração contínua e análise estática de código fonte;
 Experiência com ferramentas Jenkins, Sonar, Sonarlint etc.;
+regressão, funcional, validação de dados, integração de sistema, exploratório, carga ou desempenho) para funcionalidade novas e/ou existentes
+TestLink, Zephyr, Xray, etc.
