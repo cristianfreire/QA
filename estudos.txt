@@ -5,3 +5,15 @@ Conhecimento em integração contínua e análise estática de código fonte;
 Experiência com ferramentas Jenkins, Sonar, Sonarlint etc.;
 regressão, funcional, validação de dados, integração de sistema, exploratório, carga ou desempenho) para funcionalidade novas e/ou existentes
 TestLink, Zephyr, Xray, etc.
+
+Conhecimento em metodologias ágeis
+Conhecimento em Shift left
+Conhecimento em automação (front e back)
+Conhecimento em testes de performace com K6
+Conhecimento em CI/CD
+Conhecimento em Azure devops e Jenkins
+Conhecimento em GitHub, Azure e BitBuket
+Conhecimento em Git para versionamento de código
+Conhecimento e Frameworks Cypress, Newman, Rest Assurence e Selenium
+Conhecimento Mobile Apium Java, Device farm, Browserstack
+Ferramentas de mock, Mockoon e Parasoft

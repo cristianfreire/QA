@@ -15,7 +15,7 @@ router.post('/addlivros', async (req, res) => {
         const duplicado = await Livro.findOne({ titulo: titulo })
 
         if (duplicado) {
-            return res.status(409).json({ erro: 'O título do livro já foi cadastrado.' })
+            return res.status(409).json({ erro: 'O título do livro já foi cadastrado!' })
         }
 
         const livro = new Livro({ titulo, autor, editora, anoPublicacao, numeroPaginas });

@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon src/app.js",
     "start": "node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,12 +12,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cypress-mongodb": "^6.2.1",
     "express": "^5.1.0",
     "mogoose": "^0.0.1-security",
     "mongoose": "^8.16.4"
   },
   "devDependencies": {
     "cypress": "^14.5.2",
-    "cypress-plugin-api": "^2.11.2"
+    "cypress-plugin-api": "^2.11.2",
+    "dotenv": "^17.2.0",
+    "nodemon": "^3.1.10"
   }
 }

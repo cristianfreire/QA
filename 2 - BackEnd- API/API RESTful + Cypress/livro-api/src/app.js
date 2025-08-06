@@ -1,3 +1,8 @@
+require('dotenv').config()
+
+console.log(process.env.MONGODB_URI)
+
+
 const express = require('express');
 const mongoose = require('mongoose');
 const routes = require('./routes');
@@ -6,7 +11,7 @@ const routes = require('./routes');
 const app = express();
 
 // Conectando ao MongoDB
-mongoose.connect('mongodb+srv://dba:7PC3hFczN1PIQkIq@livroapi.ap5loag.mongodb.net/?retryWrites=true&w=majority&appName=LivroApi', {})
+mongoose.connect(process.env.MONGODB_URI, {})
     .then(()=>{
         console.log('Conectado ao mongoDB');
     }).catch((err) =>{
